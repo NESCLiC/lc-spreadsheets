@@ -1,17 +1,14 @@
-**Pivot Tables**
+---
+title: Pivot Tables
+teaching: 15
+exercises: 5
+questions:
+- "How can I summarize large amounts of raw data?"
+objectives:
+- "Produce tables and charts that help you make sense of your data"
+- "Edit your pivot tables"
+---
 
-Teaching: 15 min
-
-Exercises: 5 min
-
-Questions
-
-- How can I summarize large amounts of raw data?
-
-Objectives
-
-- Produce tables and charts that help you make sense of your data
-- Edit your pivot tables
 
 Trying to figure out large amounts of raw data can be overwhelming. With pivot tables, you can easily create interactive tables that summarize large data sets. They allow you to explore your data in different ways.
 
@@ -49,10 +46,12 @@ Finally, if you click PivotChart on the analyze tab, Excel will create an intera
 
 ![spreadsheet setup](../fig/7-PivotTableIMG6.png)
 
-**Exercise**
-
-Who is the instructor that taught more workshops on Fridays?
-
-Solution
-
-![spreadsheet setup](../fig/7-PivotTableIMG7.png)
+> ## Exercise
+>
+> Who is the instructor that taught more workshops on Fridays?
+>
+>> ## Solution
+>>
+>>![spreadsheet setup](../fig/7-PivotTableIMG7.png)
+> {: .solution}
+{: .challenge)
