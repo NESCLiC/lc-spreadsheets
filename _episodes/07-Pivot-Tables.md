@@ -1,4 +1,4 @@
-_ **Pivot Tables** _
+**Pivot Tables**
 
 Teaching: 15 min
 
