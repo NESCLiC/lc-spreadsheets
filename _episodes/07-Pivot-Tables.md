@@ -21,7 +21,7 @@ To build a pivot table:
 
 1. Put your cursor anywhere in your data set, and then click Pivot Table on the Insert tab
 
-![](RackMultipart20210621-4-13w22sh_html_d0557531185bbe89.png)
+![spreadsheet setup](../fig/PivotTableIMG1.png)
 
 1. You will see the Create Pivot Table window. The default location for your pivot able will be a New Worksheet.
 2. When you click Ok, you will go the new sheet, where the &quot;Pivot Table Fields&quot; pane also appears. Note that all our 6 fields (the headers in our original data set) are listed here.
