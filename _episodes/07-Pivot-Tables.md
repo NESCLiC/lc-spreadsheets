@@ -54,4 +54,4 @@ Finally, if you click PivotChart on the analyze tab, Excel will create an intera
 >>
 >>![spreadsheet setup](../fig/7-PivotTableIMG7.png)
 > {: .solution}
-{: .challenge)
+{: .challenge}
