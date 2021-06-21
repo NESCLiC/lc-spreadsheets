@@ -23,29 +23,31 @@ To build a pivot table:
 
 ![spreadsheet setup](../fig/PivotTableIMG1.png)
 
-1. You will see the Create Pivot Table window. The default location for your pivot able will be a New Worksheet.
-2. When you click Ok, you will go the new sheet, where the &quot;Pivot Table Fields&quot; pane also appears. Note that all our 6 fields (the headers in our original data set) are listed here.
+2. You will see the Create Pivot Table window. The default location for your pivot able will be a New Worksheet.
+ 
+3. When you click Ok, you will go the new sheet, where the &quot;Pivot Table Fields&quot; pane also appears. Note that all our 6 fields (the headers in our original data set) are listed here.
 
-![](RackMultipart20210621-4-13w22sh_html_10f1e0b4bb65afbe.png)
+![spreadsheet setup](../fig/7-PivotTableIMG2.png)
 
-1. To build a pivot table, drag the fields into one the Filters, Columns, Rows, or Values areas.
+4. To build a pivot table, drag the fields into one the Filters, Columns, Rows, or Values areas.
 
-![](RackMultipart20210621-4-13w22sh_html_b610307fc82948b2.png)
+![spreadsheet setup](../fig/7-PivotTableIMG3.png)
 
 # Formatting your Pivot Table
 
-1. Click the pulldown arrow next to each item and click on Value Field Settings if you need to change the name of the field, how you would like to summarize your values, and/or change the values format.
-2. You can sort and filter your pivot table by clicking the pulldown arrows next to Column Labels and Row Labels. In addition, you can get a cleaner table by clicking on the Field Headers button.
+5. Click the pulldown arrow next to each item and click on Value Field Settings if you need to change the name of the field, how you would like to summarize your values, and/or change the values format.
 
-![](RackMultipart20210621-4-13w22sh_html_d59ac2e180a52daf.png)
+6. You can sort and filter your pivot table by clicking the pulldown arrows next to Column Labels and Row Labels. In addition, you can get a cleaner table by clicking on the Field Headers button.
+
+![spreadsheet setup](../fig/7-PivotTableIMG4.png)
 
 Keep in mind that if your raw data changes you will need to refresh your pivot table
 
-![](RackMultipart20210621-4-13w22sh_html_8caa5ebb50b18396.png)
+![spreadsheet setup](../fig/7-PivotTableIMG5.png)
 
 Finally, if you click PivotChart on the analyze tab, Excel will create an interactive Chart for your pivot table.
 
-![](RackMultipart20210621-4-13w22sh_html_fbed8c194ad50e25.png)
+![spreadsheet setup](../fig/7-PivotTableIMG6.png)
 
 **Exercise**
 
@@ -53,4 +55,4 @@ Who is the instructor that taught more workshops on Fridays?
 
 Solution
 
-![](RackMultipart20210621-4-13w22sh_html_ca19f752ebede4fd.png)
+![spreadsheet setup](../fig/7-PivotTableIMG7.png)
